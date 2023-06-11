@@ -69,13 +69,9 @@ education:
         university: University of New South Wales
        # time: 2011 - 2012
        # details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point     
+       #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+       #    - Bullet point
+       #     - Bullet point     
 experiences:
     title: Experiences
     info:
