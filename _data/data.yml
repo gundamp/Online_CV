@@ -32,7 +32,7 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English, Cantonese, Mandarin
+        - idiom: English
           level: 
 
          # - idiom: French
@@ -63,13 +63,15 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MStat in Statistics, BCom in Actuarial Studies & Finance
-        university: University of New South Wales
+      - degree: MStat in Statistics
+       # university: University of New South Wales
        # time: 2011 - 2012
        # details: |
        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
        #    - Bullet point
-       #     - Bullet point     
+       #     - Bullet point    
+      - degree: BCom in Actuarial Studies & Finance
+        university: University of New South Wales
 experiences:
     title: Experiences
     info:
@@ -79,21 +81,18 @@ experiences:
         details: |
             - Admitted as a technical writer under the Medium Partner Program, on one of the most popular and authoritative data science blogs in the world.
             - Articles were written with a focus on data science and machine learning applications in the insurance industry.
-            - Visit [jin-cui.medium.com]() for published articles
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Visit [jin-cui.medium.com](https://jin-cui.medium.com/) for published articles
+      - role: Senior Actuary, Research & Analytics
+        time: 2018 - 2022
+        company: ClearView, Sydney
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+            - Responsible for completing the annual experience investigations, making recommendations to the Appointed Actuary, 
+              and communicating financial impact and results to senior stakeholders. 
+              This includes detailed research findings with respect to the evolution of the COVID-19 pandemic.
             - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Senior Actuary, Research & Analytics
+        time: 2018 - 2022
+        company: ClearView, Sydney
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
