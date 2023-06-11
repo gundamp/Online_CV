@@ -33,7 +33,7 @@ sidebar:
       title: Languages
       info:
         - idiom: English, Cantonese, Mandarin
-         # level: Native
+          level: 
 
          # - idiom: French
          # level: Professional
@@ -52,7 +52,6 @@ sidebar:
 
     #    - item: Cooking
     #      link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -80,7 +79,7 @@ experiences:
         details: |
             - Admitted as a technical writer under the Medium Partner Program, on one of the most popular and authoritative data science blogs in the world.
             - Articles were written with a focus on data science and machine learning applications in the insurance industry.
-            - Visit [jin-cui.medium.com] for published articles
+            - Visit [jin-cui.medium.com]() for published articles
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
