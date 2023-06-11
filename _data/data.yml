@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jin Cui
-    tagline: Senior Manager, Data Analytics
+    tagline: Senior Manager, Data Analytics @ TAL
     avatar: profile_200.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,18 +28,17 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     # pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      title: Programming Languages
+    interests:
+      title: Languages
       info:
-        - idiom: Python
-         # level: 
+        - item: English
+          link:
 
-        - idiom: R
-         # level: Professional
+        - item: Cantonese
+          link:
 
-        - idiom: SQL
-         # level: Professional
+        - item: Mandarin
+          link:
 career-profile:
     title: Career Profile
     summary: |
@@ -63,6 +62,11 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Senior Manager, Data Analytics
+        time: 2022 - Present
+        company: TAL, Sydney
+        details: |
+  #          - Admitted as a technical writer under the Medium Partner Program, on one of the most popular and authoritative data science blogs in the world.
       - role: Technical Writer
         time: 2021 - Present
         company: Towards Data Science, a Medium Publication
@@ -90,55 +94,27 @@ experiences:
             - Assisted with business strategy in respect to Pricing and Retention by evaluating various pricing levers as needed,
               as well as developing pricing for the new sustainable IDII product.
             - Embedded Value reporting and analysis of change; IFRS 17 project support; Business Planning; Actuarial Audit.
-      - role: Various Actuarial/Reinsurance Analyst roles
+      - role: Various Reinsurance Analyst and Actuarial Analyst roles prior to FIAA qualification
         time: 2012 - 2018
         #company: TAL, MetLife, ClearView, Sydney
         #details: |
 projects:
-    title: Projects
+    title: Data Analytics Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Proof of Concept Data Analytics applications built for insurance companies throughout my career where unique business insights were derived:
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Lapse Propensity Model
+        # link: "#hook"
+        tagline: "A classification model designed to help understand lapse drivers on a multi-factor basis, quantify lapse propensity and inform retention campaigns."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Natural Language Processing/Understanding
+        # link: "#"
+        tagline: "Various NLP models to cluster complaints verbatim into meaningful topics; to re-class inforce policyholders of declined occupations 
+        to the closest rated class; to categorise free-text claims cause for actuarial modelling."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Market Basket Analysis
+        # link: "#"
+        tagline: "A model based on sales data to understand purchasing behaviours of policyholders."
 
 publications:
     title: Publications
