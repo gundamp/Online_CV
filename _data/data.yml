@@ -15,7 +15,7 @@ sidebar:
     email: jincui.jc@outlook.com
     phone: 0406 597 279
     timezone: Australian Eastern Standard Time
-    citizenship: Australia
+    # citizenship: Australia
     website: https://jin-cui.medium.com/ #do not add http://
     linkedin: cuijin
     # xing: alandoe
@@ -32,7 +32,7 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English, Chinese Cantonese, Chinese Mandarin
+        - idiom: English, Cantonese, Mandarin
          # level: Native
 
          # - idiom: French
@@ -59,8 +59,8 @@ career-profile:
       As a qualified actuary, technical specialist and aspiring leader in the insurance industry,
       I combine statistical and business acumen to help drive innovation, growth and partnership
       opportunities. Communicating data insights and recommending actions to senior stakeholders 
-      in the context of strategic objectives are my strenghts. Appling actuarial rigour and 
-      data science/statistical techniques to solving business problems are my specialties.
+      in the context of strategic objectives are my strenghts. Applying actuarial rigour and a blend
+      of data science and statistical techniques to solving business problems are my specialties.
 education:
     title: Education
     info:
@@ -74,21 +74,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Technical Writer
+        time: 2021 - Present
+        company: Towards Data Science, a Medium Publication
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Admitted as a technical writer under the Medium Partner Program, on one of the most popular and authoritative data science blogs in the world.
+            - Articles were written with a focus on data science and machine learning applications in the insurance industry.
+            - Visit [jin-cui.medium.com] for published articles
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
