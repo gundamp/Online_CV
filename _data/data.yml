@@ -30,36 +30,24 @@ sidebar:
     # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Programming Languages
       info:
-        - idiom: English
-          level: 
+        - idiom: Python
+         # level: 
 
-         # - idiom: French
+        - idiom: R
          # level: Professional
 
-       # - idiom: Spanish
-       #   level: Professional
-
-    # interests:
-    #  title: Interests
-    #  info:
-    #    - item: Climbing
-    #      link:
-
-    #    - item: Snowboarding
-    #      link:
-
-    #    - item: Cooking
-    #      link:
+        - idiom: SQL
+         # level: Professional
 career-profile:
     title: Career Profile
     summary: |
-      As a qualified actuary, technical specialist and aspiring leader in the insurance industry,
+      As a qualified Actuary, technical specialist and aspiring leader in the insurance industry,
       I combine statistical and business acumen to help drive innovation, growth and partnership
       opportunities. Communicating data insights and recommending actions to senior stakeholders 
-      in the context of strategic objectives are my strenghts. Applying actuarial rigour and a blend
-      of data science and statistical techniques to solving business problems are my specialties.
+      in the context of strategic objectives are my strenghts. Applying Actuarial rigour and a blend
+      of Data Science and statistical techniques to solving business problems are my specialties.
 education:
     title: Education
     info:
@@ -80,27 +68,32 @@ experiences:
         company: Towards Data Science, a Medium Publication
         details: |
             - Admitted as a technical writer under the Medium Partner Program, on one of the most popular and authoritative data science blogs in the world.
-            - Articles were written with a focus on data science and machine learning applications in the insurance industry.
+            - Articles were written with a focus on Data Science and Machine Learning applications in the insurance industry.
             - Visit [jin-cui.medium.com](https://jin-cui.medium.com/) for published articles
       - role: Senior Actuary, Research & Analytics
-        time: 2018 - 2022
+        time: 2020 - 2022
         company: ClearView, Sydney
         details: |
             - Responsible for completing the annual experience investigations, making recommendations to the Appointed Actuary, 
               and communicating financial impact and results to senior stakeholders. 
               This includes detailed research findings with respect to the evolution of the COVID-19 pandemic.
-            - Bullet point
-      - role: Senior Actuary, Research & Analytics
-        time: 2018 - 2022
+            - Collaborated across the Valuation and Pricing teams with respect to assumption settings, data and experience drivers.
+            - Responsibe for model changes relating to the actuarial cashflow projection systems. 
+              This includes developing time-contingent cashflows as well as implementing model changes for the new IDII product.
+            - Supported the development and implementation of ClearView’s Data Analytics strategy for the Life Insurance Risk business.
+      - role: Actuarial Manager
+        time: 2019 - 2020
         company: ClearView, Sydney
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Responsible for managing the monthly Valuation processes and reviewing outputs, performing and communicating Analysis of Profits; 
+              Efficiently advised resolution for process breakdowns; Led the automation of manual processes by deploying tools such as VBA/SQL.
+            - Assisted with business strategy in respect to Pricing and Retention by evaluating various pricing levers as needed,
+              as well as developing pricing for the new sustainable IDII product.
+            - Embedded Value reporting and analysis of change; IFRS 17 project support; Business Planning; Actuarial Audit.
+      - role: Various Actuarial/Reinsurance Analyst roles
+        time: 2012 - 2018
+        #company: TAL, MetLife, ClearView, Sydney
+        #details: |
 projects:
     title: Projects
     intro: >
@@ -173,23 +166,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Excel
         level: 95%
+        
+      - name: Python
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: R
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SQL
+        level: 90%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Excel VBA
+        level: 90%
+
+
+
+# footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
