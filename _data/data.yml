@@ -121,8 +121,8 @@ publications:
     intro: |
       Listed below are some 'tutorial' like articles I published on [Medium](https://jin-cui.medium.com/).
     papers:
-      - title: [Create Powerful Model Explanations for Classification Problems with Logistic Regression](https://towardsdatascience.com/create-powerful-model-explanations-for-classification-problems-with-logistic-regression-9bdd5f1c3648)
-       # link: "#"
+      - title: Create Powerful Model Explanations for Classification Problems with Logistic Regression
+        link: "https://towardsdatascience.com/create-powerful-model-explanations-for-classification-problems-with-logistic-regression-9bdd5f1c3648"
        # authors: Donald E. Knuth
        # conference: Addison-Wesley, 1968
 
