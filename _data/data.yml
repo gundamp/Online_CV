@@ -141,7 +141,7 @@ publications:
       - title: Creating Interactive Geospatial Visualisation with Python
         link: "https://towardsdatascience.com/creating-interactive-geospatial-visualisation-75a2dfaf7e59"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: A step by step guide - from extracting geometry data to creating interactive charts
+        conference: A step by step guide from extracting geometry data to creating interactive charts
       - title: Applying Data Science in the Life Insurance Industry: A Perspective from a Qualified Actuary
         link: "https://towardsdatascience.com/applying-data-science-in-the-life-insurance-industry-a-perspective-from-a-qualified-actuary-698c197e1826"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
