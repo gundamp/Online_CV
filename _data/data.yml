@@ -143,10 +143,7 @@ publications:
         link: "https://towardsdatascience.com/creating-interactive-geospatial-visualisation-75a2dfaf7e59"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: A step by step guide from extracting geometry data to creating interactive charts
-       - title: Interactive Geospatial Visualisation with Shape Map Visual in PowerBI
-        link: "https://towardsdatascience.com/interactive-geospatial-visualization-with-shape-map-visual-in-powerbi-70def7153469"
-        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: A demonstration of maps visuals using public income and digital boundaries data
+        
 skills:
     title: Skills &amp; Proficiency
 
