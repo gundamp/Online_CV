@@ -132,15 +132,15 @@ publications:
         # authors: A practitioner’s guide, with a demonstration using the IBM Telco Churn dataset
         conference: A practitioner’s guide, with a demonstration using the IBM Telco Churn dataset
       - title: Data Transformation Using the Window Functions in PySpark
-        link: "https://medium.com/towards-data-science/data-transformation-using-the-window-functions-in-pyspark-c044e8be4de6"
+        link: "https://towardsdatascience.com/data-transformation-using-the-window-functions-in-pyspark-c044e8be4de6?sk=b841043c8b45ba844a9c1fcfe69115df"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: A use case for efficient data transformation using a non-traditional tool
       - title: Beginner’s Guide to the GPT-3 Model
-        link: "https://towardsdatascience.com/beginners-guide-to-the-gpt-3-model-2daad7fc335a"
+        link: "https://towardsdatascience.com/beginners-guide-to-the-gpt-3-model-2daad7fc335a?sk=eee8ce9f10bf99410435971d340d3a62"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: Use of the GPT-3 model demonstrated with example applications in Python calling the OpenAI API
       - title: Creating Interactive Geospatial Visualisation with Python
-        link: "https://towardsdatascience.com/creating-interactive-geospatial-visualisation-75a2dfaf7e59"
+        link: "https://towardsdatascience.com/creating-interactive-geospatial-visualisation-75a2dfaf7e59?sk=ae77cd40332baa863975400747342cf8"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: A step by step guide from extracting geometry data to creating interactive charts
         
