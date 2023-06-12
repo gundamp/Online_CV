@@ -102,7 +102,7 @@ experiences:
 projects:
     title: Data Analytics Projects
     intro: >
-      Proof of Concept Data Analytics applications built for insurance companies throughout my career where unique business insights were derived:
+      Listed below are some Proof of Concept Data Analytics applications I built for insurance companies throughout my career where unique business insights were derived:
     assignments:
       - title: Lapse Propensity Model
         # link: "#hook"
