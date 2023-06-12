@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jincui.jc@outlook.com
-    phone: 0406 597 279
+    phone: +61 406 597 279
     timezone: Australian Eastern Standard Time
     # citizenship: Australia
     website: https://jin-cui.medium.com/ #do not add http://
@@ -112,6 +112,11 @@ projects:
         tagline: "Various NLP models to cluster complaints verbatim into meaningful topics; to re-class inforce policyholders of declined occupations 
         to the closest rated class; to categorise free-text claims cause for actuarial modelling."
 
+      - title: Geospatial Visualisations
+        # link: "#"
+        tagline: "An interactive visualisation tool which illustrates at a Statistical Area or LGA level distribution policyholder by 
+                  lapse rates, income, occupation class and other demographic factors."
+
       - title: Market Basket Analysis
         # link: "#"
         tagline: "A model based on sales data to understand purchasing behaviours of policyholders."
@@ -124,17 +129,27 @@ publications:
       - title: Create Powerful Model Explanations for Classification Problems with Logistic Regression
         link: "https://towardsdatascience.com/create-powerful-model-explanations-for-classification-problems-with-logistic-regression-9bdd5f1c3648"
        # authors: Donald E. Knuth
-       # conference: Addison-Wesley, 1968
+        conference: A practitioner’s guide, with a demonstration using the IBM Telco Churn dataset
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Data Transformation Using the Window Functions in PySpark
+        link: "https://medium.com/towards-data-science/data-transformation-using-the-window-functions-in-pyspark-c044e8be4de6"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: A use case for efficient data transformation using a non-traditional tool
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Beginner’s Guide to the GPT-3 Model
+        link: "https://towardsdatascience.com/beginners-guide-to-the-gpt-3-model-2daad7fc335a"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: Demonstrated with example applications in Python calling the OpenAI API
+        
+       - title: Creating Interactive Geospatial Visualisation with Python
+        link: "https://towardsdatascience.com/creating-interactive-geospatial-visualisation-75a2dfaf7e59"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: A step by step guide - from extracting geometry data to creating interactive charts
+        
+        - title: Applying Data Science in the Life Insurance Industry: A Perspective from a Qualified Actuary
+        link: "https://towardsdatascience.com/applying-data-science-in-the-life-insurance-industry-a-perspective-from-a-qualified-actuary-698c197e1826"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: Thoughts on how data science is changing the traditional landscape for life insurance actuaries - explained with a number of use cases
 
 skills:
     title: Skills &amp; Proficiency
