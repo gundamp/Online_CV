@@ -129,7 +129,7 @@ publications:
       - title: Create Powerful Model Explanations for Classification Problems with Logistic Regression
         link: "https://towardsdatascience.com/create-powerful-model-explanations-for-classification-problems-with-logistic-regression-9bdd5f1c3648"
         authors: A practitioner’s guide, with a demonstration using the IBM Telco Churn dataset
-       # conference: A practitioner’s guide, with a demonstration using the IBM Telco Churn dataset
+        conference: A practitioner’s guide, with a demonstration using the IBM Telco Churn dataset
 
 skills:
     title: Skills &amp; Proficiency
