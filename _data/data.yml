@@ -138,7 +138,7 @@ publications:
       - title: Beginner’s Guide to the GPT-3 Model
         link: "https://towardsdatascience.com/beginners-guide-to-the-gpt-3-model-2daad7fc335a"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: Demonstrated with example applications in Python calling the OpenAI API
+        conference: Use of the GPT-3 model demonstrated with example applications in Python calling the OpenAI API
       - title: Creating Interactive Geospatial Visualisation with Python
         link: "https://towardsdatascience.com/creating-interactive-geospatial-visualisation-75a2dfaf7e59"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
