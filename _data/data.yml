@@ -110,7 +110,7 @@ projects:
     assignments:
       - title: Lapse Propensity Model
         # link: "#hook"
-        tagline: "A classification model designed to help understand lapse drivers on a multi-factor basis, quantify lapse propensity and inform retention campaigns."
+        conference: "A classification model designed to help understand lapse drivers on a multi-factor basis, quantify lapse propensity and inform retention campaigns."
 
       - title: Natural Language Processing/Understanding
         # link: "#"
