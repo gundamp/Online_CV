@@ -110,7 +110,7 @@ projects:
     assignments:
       - title: Claims Assessment Copilot
         # link: "#hook"
-        tagline: "An application leveraging LLMs to automate the extraction of unstructured data from various sources for claims assessors"
+        tagline: "An application leveraging LLMs to automate the extraction of unstructured data from various sources for claims assessors."
  
       - title: Lapse Propensity Model
         # link: "#hook"
