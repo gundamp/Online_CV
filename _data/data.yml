@@ -67,9 +67,9 @@ experiences:
         time: 2022 - Present
         company: TAL, Sydney
         details: |
-            - Commercialise data assets used for regulatory reporting by deriving and presenting business insights to senior management.
-            - Reduce cost of servicing regulatory reporting across all TAL entities by automating and building efficient ETL pipelines.
             - Develop advanced data analytics tools to support TAL strategic objectives.
+            - Support the implementation of TAL's Data Strategy.
+            - Commercialise data assets used for reporting by deriving and presenting business insights to senior management.
             - Develop workplace utilisation reporting to support the blended way of working initiative.
       - role: Technical Writer, Data Science
         time: 2021 - Present
@@ -108,6 +108,10 @@ projects:
     intro: >
       Listed below are some Proof of Concept Data Analytics applications I built for insurance companies throughout my career where unique business insights were derived:
     assignments:
+      - title: Claims Assessment Copilot
+        # link: "#hook"
+        tagline: "An application leveraging LLMs to automate the extraction of unstructured data from various sources for claims assessors"
+ 
       - title: Lapse Propensity Model
         # link: "#hook"
         tagline: "An explainable classification model designed to help understand lapse drivers on a multi-factor basis, quantify lapse propensity and inform retention campaigns."
