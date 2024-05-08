@@ -45,12 +45,12 @@ career-profile:
       As a qualified Actuary, technical specialist and aspiring leader in the insurance industry,
       I combine statistical and business acumen to help drive innovation, growth and partnership
       opportunities. Communicating data insights and recommending actions to senior stakeholders 
-      in the context of strategic objectives are my strenghts. Applying Actuarial rigour and a blend
+      in the context of strategic objectives are my strengths. Applying Actuarial rigour and a blend
       of data science and statistical techniques to solving complex business problems are my specialties.
 education:
     title: Education
     info:
-      - degree: Fellow of Institute of Actuaries of Auastralia (FIAA)
+      - degree: Fellow of Institute of Actuaries of Australia (FIAA)
       - degree: MStat in Statistics
        # university: University of New South Wales
        # time: 2011 - 2012
@@ -157,7 +157,7 @@ publications:
         conference: Thoughts on how Data Science is changing the traditional Life Insurance landscape
         
 skills:
-    title: Programing Languages &amp; Proficiency
+    title: Programming Languages &amp; Proficiency
 
     toolset:
       - name: Excel
